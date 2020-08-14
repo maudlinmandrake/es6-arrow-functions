@@ -42,6 +42,6 @@ var numbers = [3, 56, 2, 48, 5];
 
 ////FindIndex - find the index of the first item that matches.
 
-const newNumber = numbers.findIndex((num) => num > 10);
+// const newNumber = numbers.findIndex((num) => num > 10);
 
-console.log(newNumber);
+// console.log(newNumber);
